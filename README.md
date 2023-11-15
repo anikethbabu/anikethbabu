@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniketh Babu</h1>
-<h3 align="center">About Experienced and passionate programmer skilled in developing web applications using Python, Django, and MySQL. Possessing an AAS degree in Computer Programming and Development, I have been honing my programming skills since High School, programming in Python, Java, and C#. Throughout my associate degree, I expanded my proficiency in computer programming through courses such as Advanced Python, Data Structures and Algorithms, Database Programming, and Advanced Java. I am readily available to begin work immediately.</h3>
+<h3 align="center">Experienced and passionate programmer skilled in developing web applications using Python, Django, and MySQL. Possessing an AAS degree in Computer Programming and Development, I have been honing my programming skills since High School, programming in Python, Java, and C#. Throughout my associate degree, I expanded my proficiency in computer programming through courses such as Advanced Python, Data Structures and Algorithms, Database Programming, and Advanced Java. I am readily available to begin work immediately.</h3>
 
 - 🌱 I’m currently learning **Django and DRF**
 
